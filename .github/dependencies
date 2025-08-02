@@ -1,0 +1,15 @@
+base
+sdl3
+pkgconf
+meson
+clang
+cmake
+lld
+git
+sudo
+fakeroot
+autoconf
+debugedit
+base-devel
+boost
+boost-libs
